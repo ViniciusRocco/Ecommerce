@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: meu-projeto-php
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
