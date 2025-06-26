@@ -1,5 +1,5 @@
 <?php
-define('BASE_URL', '/loja-spiritshop/');
+define('BASE_URL', '');
 
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
