@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "titulo": "Smartphone Pro X",
+    "imagens": [
+      "https://placehold.co/600x400/333/FFF?text=Produto+1-A",
+      "https://placehold.co/600x400/555/FFF?text=Produto+1-B",
+      "https://placehold.co/600x400/777/FFF?text=Produto+1-C"
+    ],
+    "descricao_curta": "O mais novo smartphone com tecnologia de ponta e câmera de 108MP.",
+    "descricao_longa": "Experimente o futuro com o Smartphone Pro X. Equipado com o processador de última geração, tela Super AMOLED de 6.7 polegadas e uma bateria que dura o dia todo. Sua câmera tripla de 108MP captura fotos com detalhes incríveis em qualquer condição de iluminação.",
+    "preco": "4.999,90"
+  },
+  {
+    "id": 2,
+    "titulo": "Notebook UltraSlim",
+    "imagens": [
+      "https://placehold.co/600x400/345/FFF?text=Produto+2"
+    ],
+    "descricao_curta": "Leve, potente e perfeito para o trabalho e para o lazer.",
+    "descricao_longa": "O Notebook UltraSlim redefine a portabilidade. Com apenas 1.2kg e 14 polegadas, ele é ideal para quem está sempre em movimento. Possui um processador Intel i7, 16GB de RAM e SSD de 512GB para garantir máxima performance em todas as suas tarefas.",
+    "preco": "7.299,00"
+  },
+  {
+    "id": 3,
+    "titulo": "Fone de Ouvido NoiseFree",
+    "imagens": [
+      "https://placehold.co/600x400/543/FFF?text=Produto+3"
+    ],
+    "descricao_curta": "Mergulhe na sua música com cancelamento de ruído ativo.",
+    "descricao_longa": "Com o Fone de Ouvido NoiseFree, você se isola do mundo exterior e aproveita um som cristalino e imersivo. Bateria com duração de até 30 horas, design ergonômico e conectividade Bluetooth 5.2. Perfeito para viagens, escritório ou para relaxar em casa.",
+    "preco": "899,99"
+  },
+  {
+    "id": 4,
+    "titulo": "Smartwatch Fit+",
+    "imagens": [
+      "https://placehold.co/600x400/123/FFF?text=Produto+4"
+    ],
+    "descricao_curta": "Monitore sua saúde e atividades físicas com estilo e precisão.",
+    "descricao_longa": "O Smartwatch Fit+ é seu parceiro ideal para uma vida mais saudável. Ele monitora sua frequência cardíaca, qualidade do sono, passos e dezenas de atividades físicas. Receba notificações do seu celular diretamente no seu pulso. Bateria para até 10 dias de uso.",
+    "preco": "1.250,50"
+  },
+  {
+    "id": 5,
+    "titulo": "Câmera DSLR Pro",
+    "imagens": [
+      "https://placehold.co/600x400/6a4/FFF?text=Produto+5"
+    ],
+    "descricao_curta": "Capture momentos inesquecíveis com qualidade profissional.",
+    "descricao_longa": "A Câmera DSLR Pro oferece 24.2 megapixels, gravação de vídeo em 4K e um sistema de autofoco rápido e preciso. Ideal tanto para fotógrafos amadores quanto para profissionais que buscam excelência de imagem.",
+    "preco": "3.890,00"
+  },
+  {
+    "id": 7,
+    "titulo": "Tablet Criativo",
+    "imagens": [
+      "https://placehold.co/600x400/8b7/FFF?text=Produto+7"
+    ],
+    "descricao_curta": "Desenhe, escreva e crie sem limites.",
+    "descricao_longa": "O Tablet Criativo vem com uma caneta de alta precisão e uma tela de 11 polegadas com tecnologia Liquid Retina. Perfeito para artistas digitais, estudantes e profissionais que precisam de um dispositivo versátil para anotações e criação.",
+    "preco": "2.500,00"
+  },
+  {
+    "id": 8,
+    "titulo": "Caixa de Som Bluetooth Max",
+    "imagens": [
+      "https://placehold.co/600x400/a59/FFF?text=Produto+8"
+    ],
+    "descricao_curta": "Leve a festa com você com som potente e graves profundos.",
+    "descricao_longa": "A Caixa de Som Bluetooth Max é resistente à água, tem uma bateria de 20 horas de duração e oferece um som estéreo de alta fidelidade. Conecte até dois dispositivos simultaneamente e alterne as músicas com seus amigos.",
+    "preco": "550,00"
+  }
+]

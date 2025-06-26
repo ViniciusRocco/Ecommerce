@@ -1,0 +1,134 @@
+:root {
+    --bs-primary: #0d6efd;
+    --bs-secondary: #6c757d;
+    --bs-light: #f8f9fa;
+    --bs-dark: #212529;
+    --bs-font-sans-serif: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #f8f9fa;
+    font-family: var(--bs-font-sans-serif);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.navbar-actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.search-form .form-control {
+    border-radius: 20px 0 0 20px;
+    min-width: 250px;
+}
+
+.search-form .btn {
+    border-radius: 0 20px 20px 0;
+}
+
+#miniCartDropdown {
+    width: 350px;
+    padding: 1rem;
+}
+
+.dropdown-item-cart {
+    transition: all 0.2s;
+}
+
+.dropdown-item-cart:hover {
+    background-color: rgba(0, 0, 0, 0.03);
+}
+
+.rating-stars .fa-star {
+    color: #ddd;
+    transition: all 0.2s;
+}
+
+.rating-stars .fa-star.text-warning,
+.rating-stars .fa-star:hover {
+    color: #ffc107 !important;
+}
+
+.toast-container {
+    z-index: 1100;
+}
+
+.card {
+    transition: transform 0.3s, box-shadow 0.3s;
+    border: none;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) !important;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: contain;
+    background: #f8f9fa;
+    padding: 1rem;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 5%;
+}
+
+
+.rating-stars {
+    display: inline-flex;
+    gap: 0.25rem;
+}
+
+.rating-stars .fa-star {
+    color: #ddd;
+    transition: all 0.2s;
+}
+
+.rating-stars .text-warning {
+    color: #ffc107 !important;
+}
+
+.rating-stars .text-warning-hover {
+    color: #ffe69c !important;
+}
+
+/* Estilos para o carrossel */
+.carousel-control-prev,
+.carousel-control-next {
+    width: 5%;
+}
+
+.carousel-item {
+    transition: transform 0.6s ease-in-out;
+}
+
+.dropdown-item-cart {
+    padding: 0.75rem 1rem;
+    transition: background-color 0.2s;
+}
+
+.dropdown-item-cart:hover {
+    background-color: #f8f9fa;
+}
+
+@media (max-width: 992px) {
+    .navbar-actions {
+        gap: 0.75rem;
+    }
+
+    .search-form {
+        width: 100%;
+    }
+}
